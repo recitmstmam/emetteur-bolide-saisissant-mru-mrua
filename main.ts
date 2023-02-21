@@ -26,6 +26,6 @@ basic.forever(function () {
             radio.sendNumber(Fentes)
         }
         f2 = f1
-        basic.pause(10)
+        basic.pause(100)
     }
 })
